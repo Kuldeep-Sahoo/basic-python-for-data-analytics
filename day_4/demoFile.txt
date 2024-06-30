@@ -1,0 +1,4 @@
+hello correct keyword for catching an exception is Exception. Also, ensure that the except block comes immediately after the try block.
+hiehfi
+In Python, except should follow try, and the correct keyword for catching an exception is Exception. Also, ensure that the except block comes immediately after the try block.
+uewuf...This is the new inserted text...This is the new inserted text
